@@ -7,3 +7,5 @@
 # Visit http://www.pragmaticprogrammer.com/titles/achbd for more book information.
 #---
 require 'codebreaker/game'
+require 'codebreaker/marker'
+
